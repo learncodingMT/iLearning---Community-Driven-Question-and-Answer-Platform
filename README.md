@@ -1,6 +1,6 @@
-# MT-Discuss - Discussion Forum Platform
+# iLearning: Community Driven Question & Answer Platform
 
-MT-Discuss is a web-based discussion forum that enables users to ask questions, share knowledge, and participate in community discussions. The platform is inspired by Stack Overflow and provides category-based discussions, user authentication, thread creation, answers, and search functionality.
+iLearning is a web-based discussion forum that enables users to ask questions, share knowledge, and participate in community discussions. The platform is inspired by Stack Overflow and provides category-based discussions, user authentication, thread creation, answers, and search functionality.
 
 ---
 
@@ -60,8 +60,6 @@ MT-Discuss is a web-based discussion forum that enables users to ask questions, 
 ---
 
 # Architecture Diagram
-
-You can put this directly in README.
 
 ```text
                     +------------------+
